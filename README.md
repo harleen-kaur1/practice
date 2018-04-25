@@ -1,1 +1,1 @@
-# I'll be learning the basics of git epository.
+# I have learned 1 basic concept of git repository.
